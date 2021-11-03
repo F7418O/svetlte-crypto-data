@@ -25,7 +25,7 @@ const searchCoin = (event) => {
 
 <main>
 	<div class="container">
-		<h2 class="h2"> GeckoCoin API</h2>
+		<h2> GeckoCoin API</h2>
 	</div>	
 	<div class="container">
 		<div class="row">
@@ -69,4 +69,7 @@ const searchCoin = (event) => {
 </main>
 
 <style>
+	h2{
+		color: #ccc
+	}
 </style>
