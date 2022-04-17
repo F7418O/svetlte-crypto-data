@@ -1,7 +1,7 @@
 {
   "name": "svelte-app",
   "version": "1.0.0",
-  "home": "http://f7418o.github.io/svetlte-crypto-data",
+  "homepage": "http://f7418o.github.io/svetlte-crypto-data",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
